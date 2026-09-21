@@ -43,7 +43,7 @@ janua,januari
 perna,pernah
 sm,sama
 bsok,besok
-pssbb,psbb
+tidak bagus,gabagus
 ak,aku
 prna,pernah
 bangat,banget
@@ -54,12 +54,12 @@ ktemu,ketemu
 yauda,yaudah
 emg,emang
 jkt,jakarta
-cvd,covid
+bintang 1,jelek
 msih,masih
 bnrn,beneran
 smpe,sampai
-psb,psbb
-gua,gue
+sedih,kecewa
+jempol turun,kecewa
 kenceeeeng,kencang
 smpai,sampai
 tgl,tanggal
@@ -68,7 +68,7 @@ mles,malas
 pny,punya
 syg,sayang
 thn,tahun
-tng,tangerang
+tidak puas,gapuas
 tmpt,tempat
 anjg,anjing
 bdg,bandung
@@ -228,3 +228,972 @@ ga,tidak
 gaje,tidak jelas
 ga bagus,jelek
 tidak bagus,jelek
+ga guna,gaguna
+gaada,gaada uang
+gabener,salah
+gabisa,gabisa
+gabnr,salah
+gabsa,gabisa
+gada,gaada
+gag,tidak
+gagal kirim,transaksi pengiriman gagal
+gaje,gajelas
+gajebo,gajelas
+gajelas,gajelas
+gak,tidak
+gak guna,gaguna
+gakda,gaada
+gakk,tidak
+gamau,gamau
+gampang,mudah
+gampangg,mudah
+gatau,gatau
+gausa,gaperlu
+gausah,gaperlu
+gawe,kerja
+gbisa,gabisa
+gblg,bodoh
+gblk,bodoh
+gblok,buruk
+gblokk,buruk
+gbs,gabisa
+gbsa,gabisa
+gda,gaada
+geblek,bodoh
+gercepp,cepat
+ghiy,lagi
+gilaak,gila
+gilak,gila
+gile,gila
+gimana,bagaimana
+gini,begini
+githu,gitu
+gitu,begitu
+gj,gajelas
+gjls,gajelas
+gk,tidak
+gk guna,gaguna
+gka,tidak
+gkada,gaada
+gkbisa,gabisa
+gkmau,gamau
+gktau,gatau
+gkusah,gaperlu
+gmana,bagaimana
+gmn,bagaimana
+gmna,bagaimana
+gmpang,mudah
+gmw,gamau
+goblog,bodoh
+goblok,bodoh
+goblokk,bodoh
+good,bagus
+gpp,tidak apa-apa
+gregetan,kesal
+gretongan,gratisan
+gtau,gatahu
+gtu,begitu
+gua,saya
+gud,bagus
+gue,saya
+guna,guna
+guoblok,goblok
+gw,saya
+gwa,saya
+ha,tertawa
+hadeh,mengeluh
+hadehh,mengeluh
+hadehhh,mengeluh
+hallow,halo
+hancur,rusak
+hancur banget,buruk
+hancur lebur,rusak
+hang,berhenti merespon
+helo,halo
+hemat,menghemat
+hemat waktu, efisien
+hey,hai
+hlm,halaman
+hny,hanya
+hoax,berita bohong
+hrus,harus
+hubungin,hubungi
+huff,mengeluh
+idiot,buruk
+ilang,hilang
+ilfil,gasuka
+imoetz,imut
+indo,indonesia
+instal,pasang
+install,pasang
+item,hitam
+itungan,hitungan
+iye,iya
+ja,saja
+jadiin,jadi
+jancok,umpatan 
+jancuk,umpatan 
+jayus,tidak lucu
+jdi,jadi
+jelek banget,buruk
+jelek bgt,jelek
+jelekk,jelek
+jempol,bagus
+jempolan,bagus
+jengkel,jengkel
+jengkel bgt,jengkel
+jengkell,jengkel
+jg,juga
+jga,juga
+jgan,jangan
+jgn,jangan
+jgnkan,jangankan
+jijik,jijik
+jikalau,jika
+jir,umpatan 
+jln,jalan
+jos,bagus
+jos gandos,bagus
+joss,bagus
+josss,bagus
+joz,bagus
+juara,terbaik
+jubir,juru bicara
+jutek,galak
+kabor,kabur
+kacau,buruk
+kacrut,kacau
+kaga,tidak
+kagak,tidak
+kaliann,kalian
+kalo,kalau
+kamuu,kamu
+kamuwh,kamu
+kan,kan
+kapok,jera
+karna,karena
+katrok,kampungan
+kaya,seperti
+kayak,seperti
+kayanya,kayaknya
+kbr,kabar
+kcewa,kecewa
+kcwa,kecewa
+kdu,harus
+kea,seperti
+kece,bagus
+kece bgt,bagus
+kecewa berat,kecewa
+kecewa bgt,kecewa
+kek,seperti
+kekeuh,keras kepala
+kel,kelurahan
+kelarin,selesaikan
+kemaren,kemarin
+kemna,kemana
+kena pulsa,biaya pulsa
+kenapah,kenapa
+keren,bagus
+keren abis,bagus
+keren banget,bagus
+keren bgt,bagus
+kerenn,bagus
+kesal,kesal
+kesel,kesal
+kesell,kesal
+ketrima,diterima
+kgiatan,kegiatan
+kibul,bohong
+klau,kalau
+klean,kalian
+klianz,kalian
+klo,kalau
+klw,kalau
+km,kamu
+kmn,kemana
+kmpret,umpatan
+kmps,kampus
+kmrn,kemarin
+kmu,kamu
+knal,kenal
+knp,kenapa
+knpa,kenapa
+kntl,umpatan 
+kok,mengapa
+konsul,konsultasi
+kontak,hubungi
+kontol,buruk
+korup,korupsi
+kpd,kepada
+kpn,kapan
+kpok,jera
+krena,karena
+krenz,keren
+krn,karena
+krna,karena
+ktmu,ketemu
+ktp,kartu tanda
+ktr,kantor
+kw,imitasi
+ky,seperti
+kyk,seperti
+lag,lambat
+lambat,lemot
+lamp,lampiran
+lancar,lancar
+lancar jaya,lancar
+lancarj,lancar
+langsg,langsung
+langsungg,langsung
+lanjay,lancar
+lebay,berlebihan
+leh,boleh
+lelet,lambat
+lelett,lambat
+lemot,lambat
+lemott,lambat
+lemottt,lambat
+lgi,lagi
+lgsg,langsung
+liad,lihat
+liat,lihat
+lieur,pusing
+like,suka
+lingkaran maut,aplikasi macet memuat berputar terus
+llet,lambat
+lmyn,lumayan
+lngsg,langsung
+loading,memuat
+loading lama,memuat
+loading mulu,memuat
+loadingg,memuat
+loding,memuat
+lodingg,memuat
+log in,masuk akun
+log out,keluar akun
+login,masuk akun
+logout,keluar akun
+lola,lambat
+louph,cinta
+lp,lupa
+lu,anda
+luchuw,lucu
+luu,anda
+maacih,terima kasih
+mabal,bolos
+macem,macam
+macet,gajalan
+macett,gajalan
+macih,masih
+maem,makan
+makai,pakai
+makan ati,kesal
+makan hati,kesal
+makasih,terimakasih
+make,pakai
+makin update makin ancur,performa semakin buruk
+makin update makinjelek,performa semakin buruk
+makin update makin parah,performa semakin buruk
+maks,maksimal
+maksain,memaksa
+malem,malam
+mana2,mana-mana
+maneh,kamu
+mang,memang
+maniez,manis
+mantabb,bagus
+mantap,bagus
+mantap betol,bagus
+mantap betul,bagus
+mantapp,bagus
+mantappp,bagus
+mantapppp,bagus
+mantep,bagus
+mantul,bagus memuaskan
+mantul bgt,bagus memuaskan
+mantull,bagus
+mao,mau
+masa berlaku rujukan,masa aktif
+masi,masih
+masokk,masuk
+masukin,masukkan
+masyaallah,kagum
+mdh,mudah
+melu,ikut
+membantu,bantu
+memek,buruk
+mentok,terhenti
+mepet,dekat sekali
+mhn,mohon
+mimin,admin
+min,admin
+miras,minuman keras
+mks,terima kasih
+mksih,terima kasih
+mlah,malah
+mmk,umpatan 
+mngkn,mungkin
+mo,mau
+mokad,mati
+moso,masa
+mpe,sampai
+mrk,mereka
+mrka,mereka
+msk,masuk
+mslh,masalah
+muak,muak
+mual,muak
+mubes,musyawarah besar
+mudah,mudah
+mudah dipahami,mudah digunakan praktis
+mudahh,mudah
+muka gak kedetek,verifikasi wajah biometrik gagal terdeteksi
+mulu,selalu
+muluk,selalu
+muly,selalu
+mumet,pusing
+mumet ndase,pusing
+musti,mesti
+mutasi gak keluar,riwayat mutasi transaksi gagal tampil
+mutasi keluarga,pemindahan data
+mutasi telat,riwayat mutasi transaksi lambat muncul
+muter,lambat
+muter muter,lambat
+muter-muter,lambat
+muter2,lambat
+muupz,maaf
+n,dan
+nais,bagus
+najis,jijik
+nanam,menanam
+nanya,tanya
+napa,kenapa
+napi,narapidana
+nasgor,nasi goreng
+nauzubillah,buruk
+nda,tidak
+ndak,tidak
+ndiri,sendiri
+nengok,lihat
+ngaco,rusak
+ngak,tidak
+ngaku,mengaku
+ngambil,mengambil
+nganggur,tidak punya pekerjaan
+ngantre,mengantre
+ngantri,mengantre
+ngapah,kenapa
+ngaret,terlambat
+ngasih,memberikan
+nge crash,aplikasi rusak
+nge hang,aplikasi rusak
+ngebantu,bantu
+ngebug,lambat
+ngecrash,lambat
+ngefreeze,lambat
+ngegosip,bergosip
+ngehang,lambat
+ngeklaim,mengklaim
+ngelag,lemot lambat
+ngelaggg,lambat
+ngeleg,lambat
+ngeles,banyak alasan
+ngeliat,melihat
+ngerampok,merampok
+ngerjain,mengerjakan
+ngerubah,mengganti
+ngga,tidak
+nggak,tidak
+ngibul,menipu
+ngiler,mau
+ngirim,mengirim
+ngisiin,mengisikan
+ngmng,bicara
+ngomong,bicara
+ngubah,mengganti
+ngubek2,mencari-cari
+nguras emosi, membuat emosi
+ngurus,mengurus
+nice,bagus
+nie,ini
+nih,ini
+nik,nomor induk
+niyh,nih
+nmr,nomor
+nntn,nonton
+no antri,nomor antrean
+nobar,nonton bareng
+now,sekarang
+np,now playing
+ntar,nanti
+ntn,nonton
+ntr,nanti
+numpuk,bertumpuk
+nutupin,menutupi
+nyari,mencari
+nyekar,menyekar
+nyesal,menyesal
+nyesel,menyesal
+nyesel bgt,menyesal
+nyicil,mencicil
+nyokap,ibu
+obat,obat kesehatan
+ogah,gamau
+ok,oke
+oke,oke
+oke bgt,bagus
+okey,oke
+org2,orang-orang
+otp ga masuk,kode verifikasi sms otp tidak diterima
+otp gagal,kode verifikasi
+otp gak masuk,kode verifikasi sms otp tidak diterima
+otp lama,kode verifikasi sms otp  lambat
+otp tidak masuk,kode verifikasi sms otp tidak diterima
+overload,server penuh
+pake,pakai
+pakee,pakai
+pakek,pakai
+pala,kepala
+pantek,buruk
+parah,buruk
+parah banget,buruk
+parah bgt,buruk
+parahh,buruk
+parahhh,buruk
+parpol,partai politik
+parrah,buruk
+password,kata sandi
+paten,bagus
+payah,buruk
+payah banget,buruk
+pd,pada
+pda,pada
+pdhal,padahal
+pdhl,padahal
+pea,bodoh
+pede,percaya diri
+pekok,buruk
+peler,buruk
+pending,tertunda
+perhatiin,perhatikan
+pesenan,pesanan
+pgang,pegang
+pin,nomor pin
+pin keblokir,pin transaksi terblokir sistem
+pin salah,kendala kesalahan input pin
+pindah,mutasi
+pinjol,pinjaman
+please,tolong
+plg,paling
+plis,tolong
+plisss,tolong
+pls,tolong
+pmrnth,pemerintah
+pntk,buruk
+potong saldo,pemotongan saldo
+pp,pulang pergi
+praktis,praktis
+praktiss,mudah
+prg,pergi
+priksa,periksa
+prnh,pernah
+program rehab,rencana pembayaran
+psen,pesan
+pst,pasti
+pswt,pesawat
+puas,puas
+puas bgt,puas
+puass,puas
+puasss,puas
+puji tuhan,bersyukur 
+pulsa habis,biaya pulsa
+pulsa kepotong,pulsa seluler terpotong biaya sms
+pulsa kesedot,pulsa seluler terpotong biaya sms
+pusing,pusing
+puskesmas,puskesmas
+pw,kata sandi
+pyh,buruk
+qmu,kamu
+rajal,rawat jalan
+rakor,rapat koordinasi
+rampok,pemerasan merugikan
+ranap,rawat inap
+ranmor,kendaraan bermotor
+rawat inap,layanan rawat
+rawat jalan,layanan rawat
+real,asli
+recom,direkomendasikan
+recomended,direkomendasikan
+ref,referensi
+reg,pendaftaran
+regis,pendaftaran
+registrasi,pendaftaran
+rehab,program cicilan
+reinstall,pasang ulang
+rejected,ditolak
+rekomen,direkomendasikan
+rempong,sulit
+repp,balas
+resep,resep obat
+ribet bgt,rumit
+ribett,rumit
+rmh,rumah
+rongsok,rusak
+runtah,buruk
+ruwet,rumit
+ruwett,rumit
+ruz,terus
+rv,redvelvet
+saia,saya
+sakit kepala,pusing
+saldo kepotong,saldo terpotong
+salting,salah tingkah
+sampah,buruk
+sampah banget,buruk
+sampe,sampai
+samsek,sama sekali
+sapa,siapa
+sapose,siapa
+sat set,cepat
+satset,cepat 
+satsett,cepat
+save,simpan
+sayaa,saya
+sbb,sebagai berikut
+sbelum,sebelum
+sbg,sebagai
+sbgi,sebagai
+sbh,sebuah
+sblm,sebelum
+sbnrny,sebenarnya
+sbntr,sebentar
+scam,penipu
+scammer,penipu
+scan,pindai
+scan muka,pemindaian verifikasi wajah biometrik
+scan wajah,pemindaian verifikasi wajah biometrik
+scr,secara
+sdah,sudah
+sdgkn,sedangkan
+sdh,sudah
+sdkt,sedikit
+se7,setuju
+sebal,sebal
+sebel, sebal
+sedih,sedih
+sekalah,sekolah
+sempet,sempat
+sempurna,bagus
+seneng,senang
+seneng bgt,senang
+senengg,senang
+sengklek,rusak tidak
+serta,dan
+sgera,segera
+shg,sehingga
+shgga,sehingga
+siapa2,siapa-siapa
+siech,sih
+sikon,situasi dan kondisi
+simpel,sederhana praktis mudah
+simpen,simpan
+simple,mudah
+sinetron,sinema elektronik
+sip,bagus
+sip bgt,bagus
+sipp,bagus
+sippp,bagus
+siramin,siramkan
+sj,saja
+skalian,sekalian
+sklh,sekolah
+skr,sekarang
+skrang,sekarang
+skrg,sekarang
+skrng,sekarang
+skt,sakit
+slesai,selesai
+sll,selalu
+slma,selama
+slow,lambat
+slsai,selesai
+sm,sama
+sma,sama
+smp,sampai
+smpai,sampai
+smpe,sampai
+smpt,sempat
+smw,semua
+sndiri,sendiri
+sob,kawan
+spy,supaya
+spya,supaya
+stelah,setelah
+stlh,setelah
+stuck,gajalan
+stuckk,gajalan
+subhanallah,kagum
+suda,sudah
+sudahh,sudah
+sukha,bagus
+sukha mantap,bagus
+sukses,sukses
+suksess,sukses
+sulit,sulit
+sulitt,sulit
+susah,sulit
+susah bgt,sulit
+susahh,sulit
+sy,saya
+sya,saya
+syukur,bersyukur terima
+taek,buruk
+tahi,buruk
+tai,kesal
+tak,tidak
+td,tadi
+tdi,tadi
+tdk,tidak
+telfon,telepon
+telp,telepon
+telpon,telepon
+tengkyu,terima kasih
+terbaikk,terbaik
+terimakasih,terima kasih
+teruss,terus
+tf,transfer uang
+tf gagal,transfer transaksi gagal
+tf pending,transfer transaksi tertunda
+tfr,transfer
+thanks,terimakasih
+the best,terbaik
+thx,terima kasih
+tidak dapat otp,kode verifikasi
+tlg,tolong
+tlng,tolong
+tlol,bodoh
+tlp,telepon
+tlpn,telepon
+tntg,tentang
+tnya,tanya
+tolol,buruk
+tololl,bodoh
+top,bagua
+top bgt,bagus
+tp,tetapi
+tpi,tetapi
+transfr,transfer
+trf,transfer
+trima,terima
+trimakasih,terimakasih
+trims,terimakasih
+troubel,error
+trouble,error
+trs,terus
+trsf,transfer
+trus,terus
+truss,terus
+trusss,terus
+ttg,tentang
+ttng,tentang
+ttp,tetap
+ttpi,tetapi
+tulul,buru
+ty,terima kasih
+uang hilang,saldo berkurang tidak masuk
+uang kepotong,pemotongan saldo
+uang terpotong,pemotongan saldo
+ubah,ganti
+ubah data,perubahan data
+ubah faskes,perubahan fasilitas
+uda,sudah
+udah,sudah
+udh,sudah
+unfaedah, gabermanfaat
+untk,untuk
+update,perbarui
+update bukannya bener malah rusak,pembaruan aplikasi membuat performa semakin buruk
+updet,perbarui
+user friendly,mudah digunakan praktis
+utk,untuk
+va,nomor pembayaran
+valas,rekening valuta asing mandiri
+verif,verifikasi
+verifkasi,verifikasi
+wtb,beli
+wts,jual
+wtt,tukar
+ya allah,kecewa
+ya ampun,mengeluh kecewa
+ya tuhan,kecewa
+yg,yang
+yng,yang
+zonk,gagal
+zonkk,gagal
+zonkkk,gagal
+diblokir,blokir
+perbaiki,perbaiki
+diperbaiki,perbaiki
+yaa,ya
+blokir2,blokir
+bgus,bagus
+wallet,walet
+kepotong,potong
+perbarui,perbaiki
+apps,apa
+diupdate,update
+dipotong,potong
+masukkan,masukan
+ahh,ah
+tranfer,transfer
+transaksinya,transaksi
+yaaa,ya
+kluar,keluar
+blockir,blokir
+hallo,halo
+msuk,masuk
+system,sistem
+diproses,proses
+boikott,boikot
+tida,tidak
+mantaf,mantap
+ngerii,ngeri
+verivikasi,verifikasi
+mantaap,bagus
+tdak,tidak
+diterima,terima
+applikasi,aplikasi
+mntap,mantap
+perbaikin,perbaiki
+daptar,daftar
+aplikasih,aplikasi
+ngeriii,ngeri
+ehh,eh
+loging,login
+ahhh,ah
+terusss,terus
+yahh,yah
+sihh,sih
+jelass,jelas
+bisaaa,bisa
+okee,oke
+kecewaa,kecewa
+boikottt,boikot
+lagii,lagi
+bagusss,bagus
+kureng,kurang
+boss,bos
+kekantor,kantor
+masuk2,masuk
+professional,profesional
+inii,ini
+burukkk,buruk
+jelekkk,jelek
+rekeningmu,rekening
+kenapaa,kenapa
+lahh,lah
+anehh,aneh
+aduhh,aduh
+kacaw,kacau
+lamaa,lama
+iyaa,iya
+biyaya,biaya
+pass,pas
+kren,keren
+siip,bagus
+belokir,blokir
+ehhh,eh
+hmmm,hm
+kurangi,kurang
+boikotttt,boikot
+nutup,tutup
+mmbantu,membantu
+bukaa,buka
+assalamualaikum,asalamualaikum
+bagis,bagus
+gilaa,gila
+jlek,jelek
+kacauuu,buruk
+rekning,rekening
+kacauuuu,buruk
+minn,admin
+motong,potong
+aamiin,amin
+okk,oke
+baik2,baik
+lancar2,lancar
+nmor,nomor
+pliss,tolong
+woii,woi
+ohh,oh
+overall,overal
+kecewaaa,kecewa
+ngeriiii,ngeri
+kecewaaaa,kecewa
+kacauu,buruk
+hmm,hm
+maap,maaf
+bankk,bank
+payahh,buruk
+ksih,kasih
+sampahhh,buruk
+gaa,tidak
+busukk,buruk
+apliksi,aplikasi
+nihh,ini
+ribed,ribet
+ribettt,sulit
+update2,update
+krtu,kartu
+logi,login
+donggg,dong
+apikasi,aplikasi
+yeee,ye
+yee,ye
+bobrokkk,buruk
+yaah,yah
+sekalii,sekali
+dehh,sudah
+ituu,itu
+ajj,saja
+lahhh,lah
+payahhh,buruk
+takutt,takut
+jelasss,jelas
+hmmmm,hm
+lncar,lancar
+aplkasi,aplikasi
+bagussss,bagus
+perbaruan,pembaruan
+jossss,bagus
+ttap,tap
+dongg,dong
+trnsaksi,transaksi
+ferivikasi,verifikasi
+iy,iya
+kereeennnnn,keren
+siipp,sip
+exellence,excellence
+jossjiss,joss
+apsnya,aplikasinya
+tf,transfer
+jngn,jangan
+mandiri,mandiri
+excellent,excellent
+antap,mantap
+bntu,bantu
+skrg,sekarang
+org,orang
+gak,tidak
+okkk,oke
+pemanen,pemanen
+mantapppsss,mantap
+apk,aplikasi
+amansaja,aman saja
+dapatdi,dapat di
+ko,kok
+tiba2,tiba-tiba
+min,admin
+dong,dong
+persi,versi
+lawas,lama
+masi,masih
+wkwk,wkwk
+knpa,kenapa
+si,sih
+gitupembayaran,gitu pembayaran
+wktu,waktu
+exelen,excellent
+memuaskab,memuaskan
+sy,saya
+tdk,tidak
+sdh,sudah
+rek,rekening
+eror,error
+inj,ini
+qpa,apa
+terkadang,terkadang
+bosqu,bosku
+aplikasiku,aplikasi saya
+ga,tidak
+dipakai,digunakan
+jg,juga
+gal,tidak bisa
+loging,login
+lbih,lebih
+ngeblokir,memblokir
+bgt,banget
+lelet,lambat
+woi,woi
+payah,buruk
+loding,loading
+mamtul,mantul
+awakkk,saya
+virall,viral
+jngan,jangan
+dgn,dengan
+sy,saya
+kevewa,kecewa
+nnti,nanti
+denger,dengar
+nabung,menabung
+disini,di sini
+korupsipun,korupsi pun
+sosmed,media sosial
+benai,benahi
+baguss,bagus
+bagnget,banget
+busuk,buruk
+inimasa,ini masa
+noh,itu
+ampas,buruk
+dear,dear
+jgn,jangan
+menyerah,menyerah
+dgn,dengan
+kedepannya,ke depannya
+keadaan,keadaan
+karyawan,karyawan
+suruh,minta
+goggle,Google
+dongo,kesal
+kalo,kalau
+nya,nya
+naro,menaruh
+namanya,namanya
+tapi,tetapi
+satir,disetir
+guyssss,guys
+nnti,nanti
+dana,dana
+privasi,privasi
+aktivis,aktivis
+judol,judi online
+rakyat,rakyat
+tidak bisa,gabisa
+top up,top up
+ga bisa,gabisa
+gakbisa,gabisa
+gabisa,error
+gabagus,jelek
+ngga bagus,jelek
+tidak bagus,jelek
+bangkrut,umpatan
+ngga bagus,gabagus
+ mengecewakannnn,mengecewakan
+ga bisa,gabisa
+ndk bagus,gabagus
+keceaa ,kecewa
+tidak baik,gabaik
+buruuukkk,buruk
+siipp,oke
+jossjiss,oke
+tidak bisa,gabisa
+ikeeeeee,oke
+kereeeen,keren
+manchap,bagus
+mamtul,bagus
+nggk,tidak
+eiiyyoooo,bagus
+sedih,kecewa
+ndk bagus,jelek
