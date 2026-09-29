@@ -41,7 +41,7 @@ Dataset yang digunakan memiliki informasi seperti:
 | `repliedAt` | Waktu balasan developer |
 | `appVersion` | Versi aplikasi |
 
-Analisis difokuskan pada review tahun **2026**.
+Analisis difokuskan pada review tahun **2026** (periode **01 Januari 2026 00:00 s/d 28 September 2026 23:59**, total **39.021 data review**).
 
 ---
 
